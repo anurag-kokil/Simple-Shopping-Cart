@@ -6,15 +6,17 @@ A responsive shopping cart web application built using **HTML**, **CSS**, **Java
 
 ## 🚀 Features
 
-- 📦 Display of products grouped by category (e.g., smartphones, laptops)
-- 🧭 Category filtering with animated buttons
-- 🛍️ Add to cart functionality with quantity and remove support
+- 📦 Display a list of products from a local JSON file (`products.json`)
+- 🛍️ Add to cart functionality
+- 🔢 Adjust quantity of items in the cart
+- 🗑️ Remove individual items or empty the entire cart
+- 💾 Cart is persisted in `localStorage`
 - 💰 Real-time cart total calculation
 - 🔄 JSON-based local product loading
 - 🎨 Clean and modern UI using Bootstrap + custom CSS
+-  📁 Hosted on GitHub Pages
 
 ---
 
 ## 🚀 Live Demo
-
-[🔗 View Live Website](https://anurag-kokil.github.io/Simple-Shopping-Cart/)
+🔗 [View Live Website](https://anurag-kokil.github.io/Simple-Shopping-Cart/)
