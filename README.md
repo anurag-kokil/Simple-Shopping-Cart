@@ -17,4 +17,4 @@ A responsive shopping cart web application built using **HTML**, **CSS**, **Java
 
 ## 🚀 Live Demo
 
-[🔗 View Live Website]([https://your-github-username.github.io/your-repo-name](https://anurag-kokil.github.io/Simple-Shopping-Cart/))
+[🔗 View Live Website](https://anurag-kokil.github.io/Simple-Shopping-Cart/)
